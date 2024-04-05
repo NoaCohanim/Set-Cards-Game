@@ -2,7 +2,7 @@
 ![Set Cards Game Logo](./resources/LOGO.jpg)
 
 ## About Me
-I'be built this project when I was a 2nd year student in Ben Gurion University to demonstrate my knowledge in multi-threading. 
+I've built this project when I was a 2nd year student in Ben Gurion University to show my knowledge in multi-threading. 
 I also have knowledge in networks and communication, memory management,big data, ML and optimization algorithms, web developing and more. 
 I am fluent in C++, Java/#C, Python, Node.js and SQL.  
  
