@@ -3,9 +3,7 @@
 
 ## About Me
 I've built this project when I was a 2nd year student in Ben Gurion University to show my knowledge in multi-threading. 
-I also have knowledge in networks and communication, memory management,big data, ML and optimization algorithms, web developing and more. 
-I am fluent in C++, Java/#C, Python, Node.js and SQL.  
- 
+I also have knowledge in networks and communication, memory management,big data, ML and optimization algorithms, web developing and more.  
 
 ## About the Project
 *The project was made in Java and in order to demonstrate my knowledge in *multi-threading* and designing algorithms.
